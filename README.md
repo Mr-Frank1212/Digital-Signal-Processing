@@ -1,2 +1,5 @@
 # Digital-Signal-Processing
-Generation of appropriate 'MATLAB software solutions' to takle different task (task document) which involves digital signal and image processing (DSIP) in the time and frequency domains.
+Signal analysis and computational methods for processing digital data, including photographs and videos. 
+The emphasis is on developing suitable'software solutions' for digital signal and image processing (DSIP) in the time and frequency domains.
+
+
